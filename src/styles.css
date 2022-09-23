@@ -1,0 +1,15 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+.timeline-clock-icon {
+  font-size: 16px;
+}
+
+[data-theme="compact"] .timeline-clock-icon {
+  font-size: 14px;
+}
+.footer {
+  background-color: black;
+  color: white;
+}
